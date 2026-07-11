@@ -2,7 +2,6 @@
 ## Ohio Bureau of Workers' Compensation (July 2025 - PRESENT)
 ### Data Scientist
 * Deepdive Agents:
-* July 2025 – Present
   - Overhauled comprehensive analysis generation, reducing cost and time taken to generate reports by over 50%. 
   - Developed RAG-based AI agents for Settlement and Legal TT/MMI utilizing Cortex Search and Analyst (semantic 
 models), feeding dynamic AI generated reports as context, saving Claims Specialists and Attorneys hours per 
