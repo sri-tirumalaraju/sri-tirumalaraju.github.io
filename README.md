@@ -1,6 +1,6 @@
 # Sri Tirumalaraju
 ## Ohio Bureau of Workers' Compensation (July 2025 - PRESENT)
-Data Scientist
+### Data Scientist
 * Deepdive Agents:
 * July 2025 – Present
   - Overhauled comprehensive analysis generation, reducing cost and time taken to generate reports by over 50%. 
